@@ -1,0 +1,3 @@
+--- Refactoring Order ---
+    fonts/
+    images/
