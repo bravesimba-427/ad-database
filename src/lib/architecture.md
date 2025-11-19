@@ -1,3 +1,3 @@
 --- Refactoring Order ---
-    api.ts/
-    types.ts/
+    api.ts
+    types.ts
