@@ -1,2 +1,2 @@
 ## refactoring priority
-"app.py": 90 | "main.py": 30 |
+app.py: 90 | main.py: 30 |
