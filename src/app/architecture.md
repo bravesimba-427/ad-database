@@ -1,3 +1,2 @@
---- Refactoring Order ---
-    globals.css
-    layout.tsx
+## refactoring priority
+layout.tsx: 40 | global.css: 80 |

@@ -1,3 +1,1 @@
---- Refactoring Order ---
-    app/
-    lib/
+## refactoring priority
